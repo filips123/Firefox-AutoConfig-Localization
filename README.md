@@ -6,6 +6,10 @@ The problem is that when my own resources and normal Firefox resources are loade
 
 See more details [here](https://github.com/filips123/PWAsForFirefox/issues/340#issuecomment-1880122284).
 
+## Update
+
+This issue has been solved. The solution is to register each language separately and include it into the same metasource as normal language pack for that language. You can see the fix implemented [here](https://github.com/filips123/PWAsForFirefox/commit/ed95d39388e89f143d9031900ae66366a1ce946c).
+
 ## Steps to Reproduce
 
 ## Preparation
